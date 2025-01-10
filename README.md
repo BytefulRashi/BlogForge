@@ -18,8 +18,7 @@ blog-generator/
 ├── README.md              # Project documentation
 ├── Model/                 # Model directory
 │   └── llama-2-7b-chat.ggmlv3.q4_0.bin
-├── assets/                # Images or additional assets
-└── .gitignore             # Ignored files and folders
+├── .gitignore             # Ignored files and folders
 ```
 
 ## 🚀 Installation
